@@ -11,7 +11,7 @@
 
 ## Sobre mim:
 
-- 🔭 Desenvolvedor Back-End;
+- 🔭 Desenvolvedor Full Stack;
 - 🌱 Atualmente estudando **C#**/**.NET**, **SQL**, **PowerBuilder**, **JavaScript**, **CSS**, **HTML** e **PHP**;
 - 📚 Conhecimentos em **Oracle** e **SQL Server**;
 - 👨‍💻 Desenvolvendo projetos.
